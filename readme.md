@@ -36,6 +36,8 @@ Documentation for ASP.NET Core: [https://docs.microsoft.com/en-us/aspnet/core/](
 
 ## Docker Build
 
+
+
 There is a 'Makefile' for OS X and Linux:
 
 - `make build` executes `docker-compose build`
